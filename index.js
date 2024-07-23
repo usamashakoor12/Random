@@ -8,4 +8,5 @@ console.log(min,max);
 function rendom(max) {
       return  (Math.floor(Math.random()*max + 1))     
 }
+//sample commit
 console.log(rendom(max));
